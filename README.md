@@ -2,7 +2,7 @@
 <!--**FilippoLN001/FilippoLN001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!-->
 
 
-## 👨‍💻 Computer Science Student at the University of Perugia
+## 👨‍💻 Computer Science Degree at the University of Perugia
 
 Hello! I'm a passionate Computer Science student at the University of Perugia. Currently navigating my way through the realm of computer science with curiosity and dedication.
 
